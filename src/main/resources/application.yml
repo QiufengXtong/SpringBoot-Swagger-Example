@@ -1,0 +1,11 @@
+server:
+  port: 8088
+
+spring:
+  swagger:
+    title: Swagger3接口文档
+    description: 了解更多请咨询服务开发者
+    version: 1.0
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
