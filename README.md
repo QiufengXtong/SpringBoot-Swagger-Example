@@ -9,8 +9,8 @@ SpringBoot 整合 Swagger3 示例
 2. 启动项目，并访问`http://127.0.0.1:8088/swagger-ui/index.html
 
 # Swagger 常见注解说明
-`@EnableOpenApi`：启用`Swagger`。
-`@ApiModel`：描述实体类。
-`@ApiModelProperty`：描述字段。
-`@Api`：描述`Controller`控制类。
-`@ApiOperation`：描述每一个`Mapping`控制器。
+- `@EnableOpenApi`：启用`Swagger`。
+- `@ApiModel`：描述实体类。
+- `@ApiModelProperty`：描述字段。
+- `@Api`：描述`Controller`控制类。
+- `@ApiOperation`：描述每一个`Mapping`控制器。
