@@ -1,5 +1,9 @@
 SpringBoot 整合 Swagger3 示例
 
+# 运行此项目需要以下环境：
+- jdk8
+- Maven
+
 # 这是一个简单的演示项目，使用步骤如下：
 1. 拉取项目
 2. 启动项目，并访问`http://127.0.0.1:8088/swagger-ui/index.html
